@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name RN2483_Breakout)(type Legacy)(uri "C:/Users/Risitas/Documents/0_ISS/MOSH/MOSH Gaz PCB/projet/RN2483_Breakout.lib")(options "")(descr ""))
+  (lib (name LTC1050)(type Legacy)(uri "C:/Users/Risitas/Documents/0_ISS/MOSH/MOSH Gaz PCB/projet/LTC1050.lib")(options "")(descr ""))
+)
